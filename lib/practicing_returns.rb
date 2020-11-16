@@ -12,3 +12,7 @@ def hello(array)
 end
 
 hello(["Tim", "Tom", "Jim"]) { |name| "Hi, #{name}" }
+
+
+# this is a test
+# this is a test
